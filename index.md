@@ -3,7 +3,8 @@ layout: default
 ---
 
 
-Cyber security proffesional with a strong interest in ethical hacking,penetration testing, VA and net security. I continue to develop and learn new abilities by engaging in CTF challenges on hackthebox and tryhackMe platforms respectively.
+Cyber security enthusiast with a strong interest in Ethical hacking,Penetration testing, VA and network security. I continue to develop and learn new abilities by engaging in CTF challenges on hackthebox and tryhackMe platforms respectively.
+https://www.hackthebox.eu/profile/127253
 
 # Powershell for Pentesters
 
