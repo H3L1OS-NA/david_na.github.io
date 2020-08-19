@@ -9,13 +9,13 @@ Cyber security enthusiast with a strong interest in Ethical hacking,Penetration 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Reverse Engineering a binary with IDA
+# Reverse Engineering a binary with IDA
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Red Teaming
+# Red Teaming
 
 ```js
 // Javascript code with syntax highlighting.
