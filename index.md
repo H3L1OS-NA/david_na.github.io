@@ -3,9 +3,7 @@ layout: default
 ---
 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Cyber security proffesional with a strong interest in ethical hacking,penetration testing, VA and net security. I continue to develop and learn new abilities by engaging in CTF challenges on hackthebox and tryhackMe platforms respectively.
 
 # Powershell for Pentesters
 
